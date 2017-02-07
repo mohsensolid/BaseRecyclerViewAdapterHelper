@@ -17,8 +17,10 @@ Please feel free to use this.(Welcome to **Star** and **Fork**)
 ##v2.0.0
 - [English](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/wiki)
 - [中文](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/wiki/%E9%A6%96%E9%A1%B5)
-##Test
+## Test
 - asdasddsasadassdadassad
+
+
 #proguard-rules.pro
 ```
 -keep class com.chad.library.adapter.** {
